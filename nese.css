@@ -1,0 +1,9 @@
+h1{
+    width: 200px;
+    height: 200px;
+    border: 10px dashed black;
+    padding: 30px;
+    background-image: url(https://media3.giphy.com/media/l378vg4Pm9LGnmD6M/200w.gif?cid=6c09b952ti0npi75y7lxzt2o3s4qlxanc1v710u31snlwus4&ep=v1_gifs_search&rid=200w.gif&ct=g);
+    -webkit-background-clip:text;
+    color: transparent;
+}
